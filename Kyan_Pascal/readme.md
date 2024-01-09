@@ -10,17 +10,17 @@ where N is the order of curve, and must be divisible by 2. Due to step of plotte
 
 Hilbetrt’s curves 1., 2. and 3. order:
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/hilbxy2.gif)
+![](hilbxy2.gif)
 
 The output of program hilbxy.p.txt is picture with combined Hilbert’s curves 1. - 5. order:
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/hilbxy1.gif)
+![](hilbxy1.gif)
 
 Program **sierpxy.p.txt** draws Sierpinsky’s curves. Number N means the order of curve, number H0 has the same meaning like upper.
 
 Sierpinski’s curves of 1., 2. and 3. order
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/sierpxy2.gif)
+![](sierpxy2.gif)
 
 The output of program  sierpxy.p.txt  is combination of curves 1 – 4. order:
 
