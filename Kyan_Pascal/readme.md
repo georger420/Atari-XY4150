@@ -24,25 +24,25 @@ Sierpinski’s curves of 1., 2. and 3. order
 
 The output of program  sierpxy.p.txt  is combination of curves 1 – 4. order:
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/sierpxy1.gif)
+![](sierpxy1.gif)
 
 Program **vlocka.p.txt** draws Snowflakes:
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/vlocka1.gif)
+![](vlocka1.gif)
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/vlocka2.gif)
+![](vlocka2.gif)
 
 Program **drakxy.p.txt** draws a “dragon”:
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/drak1.gif)
+![](drak1.gif)
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/drak2.gif)
+![](drak2.gif)
 
 Program **chalupy.p.txt** draws a tree which consists of simple cottages:
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/chalupy1.gif)
+![](chalupy1.gif)
 
-![](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/chalupy2.gif)
+![](chalupy2.gif)
 
 
 References:
