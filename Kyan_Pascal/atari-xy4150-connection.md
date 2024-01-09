@@ -16,6 +16,8 @@ Connection to joytick ports of 8 bit computers ATARI XL/XE:
 | Ground  | 6  |  8 |  - |
 | Unused  |  7 | -  |  - |
 
+![Plotter XY4150](propoj.png)
+
 There was used in Czechia also other connection which had swapped wires on pin no. 2 and 4.
 
 Signals:
