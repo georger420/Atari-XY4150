@@ -1,4 +1,4 @@
-![Plotter XY4150](https://github.com/georger420/githubtraining/blob/main/Atari-XY4150/xy4150_2.jpg "Plotter XY4150")
+![Plotter XY4150](xy4150_2.jpg)
 
 XY4150 was simple plotter produced in Czechia in early 90th. Technical documentation (in Czech language) is available here:
 
