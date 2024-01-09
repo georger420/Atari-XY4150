@@ -10,7 +10,7 @@ Certain program can be downloaded from these site <http://www.atari.turiecfoto.s
 
 ![HUMBLE DESIGN](HumbleDesignDrawing.png)
 
-Program **humplo22.tbl.txt** was determined as a tool for drawing pictures made in Humble Design on plotter XY4150.
+Program **humplo22.tbl.txt** was determined as a tool for drawing pictures made in Humble Design on plotter XY4150 (or on screen).
 It is written in Turbobasic XL with built-in drive for mentioned plotter. That version of turbobasic was published on diskette of Czech magazine **[FLOP no. 4](http://flop.atariportal.cz/archives/Flop_PR.zip)**. There is also described how to connect plotter to ATARI.
 
 Following pictures were created in Humble Design and then displayed by program Humplo22.
